@@ -2,6 +2,10 @@
 
 `web` · `content` · `design` . `security`
 
+[![Website](https://img.shields.io/badge/Website-mzhsky.com-222?style=flat&logo=googlechrome&logoColor=white)](https://mzhsky.com)
+[![GitHub](https://img.shields.io/badge/GitHub-koaiso-222?style=flat&logo=github&logoColor=white)](https://github.com/koaiso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Zaini%20Hasan-222?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mz-hasan-35b9b0192/)
+
 I like building things that actually get used.
 
 I'm based in Balikpapan, Indonesia. Most of my work sits somewhere between websites, digital content, internal tools, and responsible security research.
@@ -53,9 +57,15 @@ Some organizations that have recognized my reports include:
 
 ## Tools I often use
 
-`HTML` `CSS` `JavaScript` `PHP` `WordPress`  
-`Git` `Linux` `Burp Suite` `Nuclei` `httpx` `Katana`
-
+![HTML5](https://img.shields.io/badge/HTML5-222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-222?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-222?style=flat&logo=php)
+![WordPress](https://img.shields.io/badge/WordPress-222?style=flat&logo=wordpress)
+![Git](https://img.shields.io/badge/Git-222?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-222?style=flat&logo=linux)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-222?style=flat)
+![Nuclei](https://img.shields.io/badge/Nuclei-222?style=flat)
 ---
 
 > Build something useful. Test it. Improve it. Repeat.
